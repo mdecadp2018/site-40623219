@@ -70,6 +70,7 @@
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20181015114110.1"><vh>@edit Week1.md</vh></v>
+<v t="leo.20181015121855.1"><vh>@edit Week2.md</vh></v>
 </v>
 </v>
 </v>
