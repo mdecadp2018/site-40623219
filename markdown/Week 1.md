@@ -3,7 +3,7 @@ Title: Week 1
 Date: 2018-10-15 11:00
 Category: Misc
 Tags: 2018Fall
-Slug: 2018-Fall-Project-Blog
+Slug: 2018-Fall-Project-Blog-w1
 Author: 40623219
 ---
 
