@@ -43,10 +43,10 @@
 <v t="leo.20181108212641.2"><vh>week 6</vh></v>
 </v>
 <v t="leo.20181108212643.1" a="E"><vh>w7</vh>
-<v t="leo.20181108212643.2"><vh>week 1</vh></v>
+<v t="leo.20181108212643.2"><vh>week 7</vh></v>
 </v>
-<v t="leo.20181108212644.1"><vh>w8</vh>
-<v t="leo.20181108212644.2"><vh>week 1</vh></v>
+<v t="leo.20181108212644.1" a="E"><vh>w8</vh>
+<v t="leo.20181108212644.2"><vh>week 8</vh></v>
 </v>
 </v>
 </v>
@@ -265,8 +265,11 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20181108212629.2"># week 2
-
+```
+@language python
 * 領取個人的其中倉儲作業，並且默認的分支為gh-pages
+
+```
 
 
 
@@ -295,10 +298,12 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20181108212638.2"># week 4
-
+```
+@language python
 * 學習管理期中作業倉儲CMSimfly,Reveal,Pelican Blog
 * 學習使用Onshape，繪製基本的圖形，熟悉操作方法
 
+```
 
 </t>
 <t tx="leo.20181108212640.1">&lt;section data-markdown&gt;
@@ -311,9 +316,11 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20181108212640.2"># week 5
-
+```
+@language python
 * 閱讀英文的onshape操作說明並且更加熟悉操作
 
+```
 
 </t>
 <t tx="leo.20181108212641.1">&lt;section data-markdown&gt;
@@ -326,10 +333,12 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20181108212641.2"># week 6
-
+```
+@language python
 * 複習老師所拍的week 1至week 5的教學影片
 * 將CMSimfly倉儲中的flaskapp.py升級為最新的版本
 
+```
 
 
 </t>
@@ -342,11 +351,13 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20181108212643.2"># week 1
+<t tx="leo.20181108212643.2"># week 7
+```
+@language python
+* 
+* 
 
-* 建立起自己的github帳號以及github資料庫
-* 將之前學過
-
+```
 
 </t>
 <t tx="leo.20181108212644.1">&lt;section data-markdown&gt;
@@ -358,11 +369,13 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20181108212644.2"># week 1
+<t tx="leo.20181108212644.2"># week 8
+```
+@language python
+* 
+* 
 
-* 建立起自己的github帳號以及github資料庫
-* 將之前學過
-
+```
 
 </t>
 </tnodes>
