@@ -249,13 +249,12 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20181108212605.2"># week 1
 ```
-
+@language python
 * 建立起自己的github帳號以及github資料庫
 * 將之前學過的git指令再複習一遍
 *如何管理自己的github倉儲教學
 
-```
-</t>
+```</t>
 <t tx="leo.20181108212629.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
