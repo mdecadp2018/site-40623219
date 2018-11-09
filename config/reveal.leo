@@ -254,7 +254,9 @@ vertical: body pane on the botton</t>
 * 將之前學過的git指令再複習一遍
 *如何管理自己的github倉儲教學
 
-```</t>
+```
+
+</t>
 <t tx="leo.20181108212629.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -354,8 +356,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20181108212643.2"># week 7
 ```
 @language python
-* 
-* 
+* 今天一大早時發生了github故障舞法進入，也無法push上去，所以需要暫時的解決辦法。
+解決方式:各計算機程式、電腦輔助設計與協同產品設計倉儲資料除了近端與 Github 端存放外, 還必須同步到: https://about.gitlab.com/pricing/ https://bitbucket.org/product/pricing 以及自己的 Fossli SCM 主機
+
 
 ```
 
@@ -372,8 +375,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20181108212644.2"># week 8
 ```
 @language python
-* 
-* 
+* 這周需要開始做專題的分組準備，要6個人為一個team，也需要去聊解未來的這幾周所會使用到的程式
+* 將零組件轉至 V-rep 進行運動模擬
 
 ```
 
