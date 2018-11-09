@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623219/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623219/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623219/blog/</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>Week 8</title><link href="https://mdecadp2018.github.io/site-40623219/blog/2018-Fall-Project-Blog-w8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623219</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623219/blog/2018-Fall-Project-Blog-w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;Week 8&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623219/blog/2018-Fall-Project-Blog-w7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623219</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623219/blog/2018-Fall-Project-Blog-w7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h2&gt;Week 8&lt;/h2&gt;
+&lt;h1&gt;課程內容&lt;/h1&gt;
+&lt;p&gt;這周需要開始做專題的分組準備，要6個人為一個team，也需要去聊解未來的這幾周所會使用到的程式:&lt;/p&gt;
+&lt;p&gt;將零組件轉至 V-rep 進行運動模擬&lt;/p&gt;
+&lt;h1&gt;課程心得&lt;/h1&gt;
+&lt;p&gt;課程到了這個中間點其實我有點開始跟不上進度了，但是要開始分組了，這樣會拖累整個團隊的進度，所以我需要趕快把東西都趕出來。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623219/blog/2018-Fall-Project-Blog-w7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623219</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623219/blog/2018-Fall-Project-Blog-w7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;Week 7&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40623219/blog/2018-Fall-Project-Blog-w6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623219</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623219/blog/2018-Fall-Project-Blog-w6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h2&gt;Week 7&lt;/h2&gt;
+&lt;h1&gt;課程內容&lt;/h1&gt;
+&lt;p&gt;今天一大早時發生了github故障舞法進入，也無法push上去，所以需要暫時的解決辦法。&lt;/p&gt;
+&lt;p&gt;解決方式:各計算機程式、電腦輔助設計與協同產品設計倉儲資料除了近端與 Github 端存放外, 還必須同步到:
+https://about.gitlab.com/pricing/
+https://bitbucket.org/product/pricing 以及自己的 Fossli SCM 主機&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40623219/blog/2018-Fall-Project-Blog-w6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623219</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623219/blog/2018-Fall-Project-Blog-w6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;Week 6&lt;/h2&gt;
 &lt;h1&gt;課程內容&lt;/h1&gt;
